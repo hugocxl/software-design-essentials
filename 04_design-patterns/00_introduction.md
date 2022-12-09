@@ -1,7 +1,6 @@
 # Design Patterns
 
-Design patterns are a powerful tool for solving common problems in software design. They represent general guidelines and best practices for designing software applications that help developers to create high-quality, maintainable, and scalable code. 
-
+Design patterns are a powerful tool for solving common problems in software design. They represent general guidelines and best practices for designing software applications that help developers to create high-quality, maintainable, and scalable code.
 
 In this chapter, we will explore a variety of design patterns, including both classic patterns and modern patterns. We will learn how to recognize common design problems, and how to apply the appropriate design pattern to solve those problems. We will also discuss the trade-offs and limitations of each pattern, and learn how to apply them in real-world software development projects.
 
