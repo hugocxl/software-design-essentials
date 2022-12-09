@@ -2,9 +2,9 @@
 
 The KISS principle is a design guideline that states that **simplicity is key to writing good code**. The acronym **KISS** stands for "Keep It Simple, Stupid," and it emphasizes the importance of avoiding overly complex solutions, and instead focusing on simplicity and clarity in your code.
 
-![](images/kiss-principle.png)
-
 If you have built applications before, you might have already engaged in the problem of writing code and reviewing it months later. Many lines are unreadable crap because you couldn't take a step back and simplify the concepts.
+
+![](https://raw.githubusercontent.com/hcorta/software-design-essentials/master/public/images/kiss-principle.png)
 
 The KISS principle is based on the idea that **simple solutions are generally easier to understand, maintain, and modify** than complex solutions. This is because simple solutions have fewer moving parts, and are therefore less likely to break or become difficult to work with over time. Additionally, simple solutions are often more readable and understandable, which makes them easier to work with for other developers who may need to modify or maintain your code in the future.
 
