@@ -16,18 +16,13 @@ All programming paradigms have the same thing in common: they deal with sequence
 
 To date, there are several programming paradigms. Among these:
 
+* **Structured**: Programming with clean, goto-free, nested control structures.
+* **Functional**: Programming with function calls that avoid any global state.
+* **Object-Oriented**: Programming by defining objects that send messages to each other. Objects have their own internal (encapsulated) state and public interfaces. Object orientation can be:
 * **Imperative**: Programming with an explicit sequence of commands that update state.
 * **Declarative**: Programming by specifying the result you want, not how to get it.
-* **Structured**: Programming with clean, goto-free, nested control structures.
 * **Procedural**: Imperative programming with procedure calls.
-* **Functional (Applicative)**: Programming with function calls that avoid any global state.
-* **Function-Level (Combinator)**: Programming with no variables at all.
-* **Object-Oriented**: Programming by defining objects that send messages to each other. Objects have their own internal (encapsulated) state and public interfaces. Object orientation can be:
-* **Class-based**: Objects get state and behavior based on membership in a class.
-* **Prototype-based**: Objects get behavior from a prototype object.
-* **Event-Driven**: Programming with emitters and listeners of asynchronous actions.
-* **Flow-Driven**: Programming processes communicating with each other over predefined channels.
-* etc
+* **...**
 
 For the sake of brevity. The three paradigms included in this overview chapter are structured programming, object-orient programming, and functional programming.
 
