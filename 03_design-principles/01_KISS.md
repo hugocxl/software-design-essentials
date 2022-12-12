@@ -4,14 +4,13 @@ The KISS principle is a design guideline that states that **simplicity is key to
 
 If you have built applications before, you might have already engaged in the problem of writing code and reviewing it months later. Many lines are unreadable crap because you couldn't take a step back and simplify the concepts.
 
-![](https://raw.githubusercontent.com/hcorta/software-design-essentials/master/public/images/kiss-principle.png)
+![kiss](https://raw.githubusercontent.com/hcorta/software-design-essentials/master/public/images/kiss-principle.png)
 
 The KISS principle is based on the idea that **simple solutions are generally easier to understand, maintain, and modify** than complex solutions. This is because simple solutions have fewer moving parts, and are therefore less likely to break or become difficult to work with over time. Additionally, simple solutions are often more readable and understandable, which makes them easier to work with for other developers who may need to modify or maintain your code in the future.
 
 To follow the KISS principle in your software development, focus on creating simple solutions to the problems you are trying to solve. **This means avoiding unnecessary complexity and looking for ways to simplify your code without sacrificing functionality or performance.** For example, you might avoid using complex data structures or algorithms if a simpler solution would suffice, or you might use clear and concise naming conventions for your variables and functions.
 
 Another important aspect of the KISS principle is the idea of modularity. By breaking your code into small, modular components, you can make your code more reusable and easier to maintain. This is because each module has a well-defined responsibility, and changes to one module will not affect other modules. Additionally, modular code is often easier to test and debug, which can save you time and effort in the long run.
-
 
 Here is a simple example of the KISS principle in TypeScript:
 
