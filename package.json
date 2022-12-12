@@ -1,0 +1,23 @@
+{
+  "name": "software-design-essentials",
+  "version": "1.0.0",
+  "description": "A book on the fundamentals of software design",
+  "main": "index.js",
+  "repository": "https://github.com/hcorta/software-design-essentials.git",
+  "author": "hcorta <corta.hugo@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "eslint --fix --ignore-path .gitignore .",
+    "prettier": "prettier --ignore-path .gitignore .",
+    "format": "yarn prettier  --write",
+    "format:check": "yarn prettier --list-different",
+    "validate": "yarn lint && yarn run format:check"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-plugin-md": "^1.0.19",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.1"
+  }
+}
