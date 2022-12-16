@@ -1,5 +1,7 @@
 # 1. Clean Code
 
+> “Clean code is not written by following a set of rules. You don’t become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines.” — Robert C. Martin
+
 ![clean code](https://raw.githubusercontent.com/hcorta/software-design-essentials/master/public/images/clean-code.png)
 
 Clean code is often considered the holy grail of software development, and the

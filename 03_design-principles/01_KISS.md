@@ -1,5 +1,7 @@
 # KISS (Keep It Simple, Stupid) Principle
 
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+
 The KISS principle is a design guideline that states that **simplicity is key to
 writing good code**. The acronym **KISS** stands for "Keep It Simple, Stupid,"
 and it emphasizes the importance of avoiding overly complex solutions, and

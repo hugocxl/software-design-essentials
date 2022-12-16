@@ -1,8 +1,8 @@
 # Comments
 
 Code is typically written to be used by others, so it is important to make sure it is easy to read and understand.
-Code comments are an important tool of software programming: they provide a way for developers to document and explain their code. A good commenting practice can help to improve the readability and maintainability of a codebase and can
-make it easier for others (including future versions of oneself) to understand it and work with it.
+
+Code comments are an important tool of software programming: they provide a way for developers to document and explain their code. A good commenting practice can help to improve the readability and maintainability of a codebase and can make it easier for others (including future versions of oneself) to understand it and work with it.
 Code comments enhance readability. They facilitate code reviews, refactoring, and maintenance. Moreover, code comments are ignored by compilers and interpreters when producing the final executable. Thus, they incur no runtime performance overhead. However, too many or unnecessary comments can reduce readability.
 
 Let's explore the various ways in which comments can be used in software programming, as well as the best practices for using them effectively.
